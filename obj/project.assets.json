@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yamamoto_yuya\\Desktop\\mysql\\userApp\\userApp\\userApp.csproj",
+      "projectUniqueName": "C:\\Mydev\\userApp\\userApp.csproj",
       "projectName": "userApp",
-      "projectPath": "C:\\Users\\yamamoto_yuya\\Desktop\\mysql\\userApp\\userApp\\userApp.csproj",
+      "projectPath": "C:\\Mydev\\userApp\\userApp.csproj",
       "packagesPath": "C:\\Users\\yamamoto_yuya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yamamoto_yuya\\Desktop\\mysql\\userApp\\userApp\\obj\\",
+      "outputPath": "C:\\Mydev\\userApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
